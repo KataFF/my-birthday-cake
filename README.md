@@ -8,7 +8,7 @@ You'll find it in `src/` directory.
 * Temperature setting on a gas cooker should be somewhere around "4", which according to it's user manual corresponds to around 185 °C. You can probably set it to less if you have a cooker with thermo-circulation.
 * Actual mass of quark for "Cheese compound" portion was more like 800g [^2] according to my editor's scale, but advertised mass was 1000g. Also, slightly less milk and oil was used since my editor can't handle all the code at once.
 
-[^2] I guess this is an equivalent of "80 characters per line" rule for the people distributing the cheescake quark.
+[^2]:I guess this is an equivalent of "80 characters per line" rule for the people distributing the cheescake quark.
 
 # Tools used
 My code editor of choice for this project was a Thermomix TM31:

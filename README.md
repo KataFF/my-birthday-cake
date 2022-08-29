@@ -1,5 +1,6 @@
 # My birthday cake
 This is a repository containing the source code for the cake which I ~~baked~~ compiled for my co-employees at my work at the occasion of my 24th birthday. It's a "sernik rosa" ("dew" cheesecake), which is my personal favourite.
+![A dew cheescake in all it's glory](img/wip/ready_for_packaging.jpg)
 
 # Source code
 You'll find it in `src/` directory.
